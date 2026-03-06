@@ -107,7 +107,7 @@ int main()
       printf("PONTO TURISTICO: %d \n", pturistico2);
       printf("POPULACAO: %f \n", populacao2);
 
-
+      printf("variavel teste");
       
 
 
